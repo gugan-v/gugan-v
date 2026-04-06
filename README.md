@@ -1,9 +1,10 @@
 Hey there 👋
+
 I'm Gugan, a data engineer based in chennai
 I mostly work on python,hadoop,pyspark,apache airflow and AWS
 I also use AWS EC2,S3 with create ETL projects like batch processing and stream processing
 This is a fresh profile where I'll be uploading some smaller projects,experiments and things,
- I'm currently working on,Evrything here is built from scratch
+I'm currently working on,Evrything here is built from scratch
  
 ---------------------------------------------------------------------------------
 ### 👍Skills & Tools
