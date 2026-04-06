@@ -1,30 +1,41 @@
-Hey there 👋
+## Hey there 👋
 
-I'm Gugan, a data engineer based in chennai
-I mostly work on python,hadoop,pyspark,apache airflow and AWS
-I also use AWS EC2,S3 with create ETL projects like batch processing and stream processing
-This is a fresh profile where I'll be uploading some smaller projects,experiments and things,
-I'm currently working on,Evrything here is built from scratch
- 
----------------------------------------------------------------------------------
-### 👍Skills & Tools
-• Git 
+I'm **Gugan**, a Data Engineer based in Chennai.
 
-• Python   
+I specialize in building scalable **ETL pipelines** and working with **big data technologies**. I enjoy transforming raw data into meaningful insights using modern data tools and cloud platforms.
 
-• PySpark 
+Currently, I work with **Python, PySpark, Apache Airflow, Hadoop, and AWS (EC2, S3)** to design and automate data workflows.
 
-• Apache airflow 
+I build real-world projects including:
+- Batch data processing pipelines  
+- Cloud-based ETL workflows (S3 → Spark → S3)  
+- Workflow orchestration using Airflow  
 
-• AWS EC2,S3 
+This profile showcases my learning journey, experiments, and hands-on projects — everything built from scratch 🚀
 
-• ETL Pipeline Developmnt 
+---
 
-• Data Processing & Transformation  
----------------------------------------------------------------------------------
-### ✌️ A Bit About Me
-• 🐕I have two dogs   
-• 😉Not a coffee or tea person 
-• 😍Into anime - One Piece is a favorite
-• 😎Interested in big data and cloud technologies 
-• 🙌I like bulid things that are simple,useful and easy to understand  
+## 🛠️ Skills & Tools
+- Python  
+- PySpark  
+- Apache Airflow  
+- Hadoop  
+- AWS (EC2, S3)  
+- Git  
+- ETL Pipeline Development  
+- Data Processing & Transformation  
+
+---
+
+## 📊 What I'm Focused On
+- Building production-ready ETL pipelines  
+- Learning real-time data processing (Kafka, streaming)  
+- Improving cloud-based data engineering skills  
+
+---
+
+## ⚡ A Bit About Me
+- 🐶 I have two dogs  
+- 🎌 Anime fan — *One Piece* is my favorite  
+- 🚀 Interested in Big Data & Cloud Technologies  
+- 🛠️ I enjoy building simple, useful, real-world projects  
