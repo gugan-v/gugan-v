@@ -8,12 +8,12 @@ I'm currently working on,Evrything here is built from scratch
  
 ---------------------------------------------------------------------------------
 ### 👍Skills & Tools
-• Git
-• Python  
-• PySpark  
-• Apache Airflow  
-• AWS EC2,S3  
-• ETL Pipeline Development  
+• Git 
+• Python   
+• PySpark 
+• Apache airflow 
+• AWS EC2,S3 
+• ETL Pipeline Developmnt 
 • Data Processing & Transformation  
 ---------------------------------------------------------------------------------
 ### ✌️ A Bit About Me
