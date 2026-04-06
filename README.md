@@ -1,6 +1,4 @@
 ## Hi there 👋
-Hey there 👋
-
 I'm a Data Engineer passionate about building scalable ETL pipelines and working with big data technologies.
 
 I design and develop data workflows that extract, transform, and load data efficiently using tools like Apache Spark, Airflow, and AWS S3.
@@ -12,9 +10,7 @@ My main tech stack includes Python, PySpark, Apache Airflow, and AWS. I focus on
 I've built projects involving ETL pipelines from S3 → Spark → S3, automated using Airflow DAGs.
 
 If you want to learn how I built these, check out my repositories below 👇
-
 ---
-
 ### 🚀 Skills
 • Python  
 • PySpark  
@@ -22,9 +18,7 @@ If you want to learn how I built these, check out my repositories below 👇
 • AWS S3  
 • ETL Pipeline Development  
 • Data Processing & Transformation  
-
 ---
-
 ### 📌 Fun Facts
 • I enjoy building real-world data projects  
 • I like automating workflows  
