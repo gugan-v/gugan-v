@@ -6,10 +6,6 @@ I specialize in building scalable **ETL pipelines** and working with **big data 
 
 Currently, I work with **Python, PySpark, Apache Airflow, Hadoop, and AWS (EC2, S3)** to design and automate data workflows.
 
-I build real-world projects including:
-- Batch data processing pipelines  
-- Cloud-based ETL workflows (S3 → Spark → S3)  
-- Workflow orchestration using Airflow  
 
 This profile showcases my learning journey, experiments, and hands-on projects — everything built from scratch 🚀
 
